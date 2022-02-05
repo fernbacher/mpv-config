@@ -24,7 +24,11 @@
 
 ## How to use?
 1. Right click inside MPV, you will open up the menu
- - https://user-images.githubusercontent.com/66071319/152653471-b39a6100-001b-44b3-b862-03a05b9ebceb.mp4
+
+
+https://user-images.githubusercontent.com/66071319/152653555-c5d88c9c-b906-4520-9d1f-dfd0d9a5af29.mp4
+
+
 
 
 
