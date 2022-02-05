@@ -35,3 +35,5 @@ https://user-images.githubusercontent.com/66071319/152653689-eb8bc130-a871-4719-
 
 2. ![480p upscaled](https://i.imgur.com/29rnsUO.png)
 **-480p Upscaled**
+
+**[GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/gpl-3.0.txt)**
