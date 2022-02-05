@@ -31,9 +31,9 @@ https://user-images.githubusercontent.com/66071319/152653689-eb8bc130-a871-4719-
 
 ## Examples
 1. ![480P original](https://i.imgur.com/FmECffU.png)
-**-480p Original**
+**- 480p Original**
 
 2. ![480p upscaled](https://i.imgur.com/29rnsUO.png)
-**-480p Upscaled**
+**- 480p Upscaled**
 
 **[GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/gpl-3.0.txt)**
