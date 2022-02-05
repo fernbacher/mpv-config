@@ -26,10 +26,7 @@
 1. Right click inside MPV, you will open up the menu
 
 
-https://user-images.githubusercontent.com/66071319/152653555-c5d88c9c-b906-4520-9d1f-dfd0d9a5af29.mp4
-
-
-
+https://user-images.githubusercontent.com/66071319/152653689-eb8bc130-a871-4719-b567-435b722f2db5.mp4
 
 
 ## Examples
