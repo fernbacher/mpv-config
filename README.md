@@ -1,6 +1,6 @@
 # For Windows | Linux, no idea about MacOS
 ## How to install
-1. ```git clone https://github.com/fernbacher/mpv-config``` / From the [releases](https://github.com/fernbacher/mpv-config/releases/tag/mpv-config)
+1. ```git clone https://github.com/fernbacher/mpv-config``` | ``From the`` [releases](https://github.com/fernbacher/mpv-config/releases/tag/mpv-config)
 2. copy and paste everything in;
  - Linux: ```~/.config/mpv/```
  - Windows: ```%APPDATA%/mpv/```
