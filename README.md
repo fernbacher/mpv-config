@@ -21,6 +21,7 @@
  - [Anime4K](https://github.com/bloc97/Anime4K)
  - [FSRCNN](https://github.com/igv/FSRCNN-TensorFlow)
  - [KrigBilateral](https://gist.githubusercontent.com/igv/a015fc885d5c22e6891820ad89555637/raw/e912828d0d11908940d88c196eb9bbd0952044f3/KrigBilateral.glsl)
+ - [Nvidia Image Scaling](https://gist.github.com/agyild/7e8951915b2bf24526a9343d951db214#file-nvscaler-glsl)
 
 ## How to use?
 1. Right click inside MPV, you will open up the menu
