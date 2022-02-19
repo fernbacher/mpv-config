@@ -17,6 +17,9 @@
  - [mancrop](https://github.com/aidanholm/mpv-easycrop/blob/master/easycrop.lua)
  - [sview](https://github.com/deus0ww/mpv-conf/blob/master/scripts/Shaders.lua)
  - [uosc](https://github.com/darsain/uosc/blob/master/uosc.lua)
+ - [sponsorblock](https://github.com/po5/mpv_sponsorblock)
+ - [pause-indicator](https://gist.github.com/torque/9dbc69543118347d2e5f43239a7e609a)
+ - [copy-paste-URL](https://github.com/zenyd/mpv-scripts/blob/master/copy-paste-URL.lua)
 2. And multiple shaders;
  - [Anime4K](https://github.com/bloc97/Anime4K)
  - [FSRCNN](https://github.com/igv/FSRCNN-TensorFlow)
@@ -29,6 +32,7 @@
 
 https://user-images.githubusercontent.com/66071319/152653689-eb8bc130-a871-4719-b567-435b722f2db5.mp4
 
+2. To watch youtube/twitch/etc you copy the link from your browser, and CTRL + V in MPV
 
 ## Examples
 1. ![480P original](https://i.imgur.com/FmECffU.png)
