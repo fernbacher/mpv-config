@@ -9,6 +9,7 @@
 
 ## What does it have, what can it do?
 1. It contains multiple scripts;
+ - [autoload](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autoload.lua)
  - [adevices](https://github.com/jonniek/mpv-scripts/blob/master/cycleaudiodevice.lua)
  - [autocrop](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autocrop.lua)
  - [autodeint](https://github.com/mpv-player/mpv/blob/master/TOOLS/lua/autodeint.lua)
